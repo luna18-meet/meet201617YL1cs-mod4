@@ -16,3 +16,4 @@ print(my_string.replace('h','j'))
 #Test the new replace method
 my_string=MyStr('aAaADD')
 print(my_string.replace('AA','c'))
+
