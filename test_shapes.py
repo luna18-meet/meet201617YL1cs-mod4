@@ -1,5 +1,5 @@
 from rectangle import Rectangle
-#from square import Square
+from square import Square
 import turtle
 import time
 
